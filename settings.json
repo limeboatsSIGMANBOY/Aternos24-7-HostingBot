@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "LightSMP-AcKJ.aternos.me",
+    "port": 48667,
     "version": "",
     "try-creative": false
   },
